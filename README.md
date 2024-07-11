@@ -5,8 +5,6 @@ Olá sou a becca uma bot de multitarefas e de diversão, tenho como proposito de
 # Cookies, meu bolsa familia para usuarios do discord
 
 # Vantagens de Usar a BeccaTk
-- 
-
 
 # Tecnologias Usadas 
 - java
@@ -18,6 +16,7 @@ Olá sou a becca uma bot de multitarefas e de diversão, tenho como proposito de
     - MongoDB (Para Armazenar Dados dos Usuarios)
     - Sqlite3 (Para Armazenar dados extras dos jogos para serem acessados rapidos)
 
+# Termos de condições
 
 
 
