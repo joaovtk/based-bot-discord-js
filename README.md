@@ -3,7 +3,7 @@
 Olá sou a becca uma bot de multitarefas e de diversão, tenho como proposito de distribuir cookies que minha moeda principal.
 
 # Cookies, meu bolsa familia para usuarios do discord
-
+Ainda por vir
 # Tecnologias Usadas 
 - java
 - Bibliotecas java
