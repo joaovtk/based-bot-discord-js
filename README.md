@@ -15,10 +15,10 @@ Olá sou a becca uma bot de multitarefas e de diversão, tenho como proposito de
     - Sqlite3 (Para Armazenar dados extras dos jogos para serem acessados rapidos)
 
 # Termos de condições
-Ao usar ou modificar beccatk você aceitara os seguites Termos e Condições
+Ao usar ou modificar beccatk você aceitara os seguites <a href="https://joaovtk.github.io/becca-discord-bot/terms">Termos e Condições</a>
 
 # Politicas de Privacidade
-A BeccaTK se compromete a proteger a privacidade de seus usuários e a tratar suas informações com o máximo cuidado e responsabilidade. Esta política estabelece como a BeccaTK, lida com as informações pessoais dos usuários e suas Politicas de Privacidade
+A BeccaTK se compromete a proteger a privacidade de seus usuários e a tratar suas informações com o máximo cuidado e responsabilidade. Esta política estabelece como a BeccaTK, lida com as informações pessoais dos usuários e suas <a href="https://joaovtk.github.io/becca-discord-bot/policy">Politicas de Privacidade</a>
 
 
 
