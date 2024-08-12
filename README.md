@@ -12,8 +12,6 @@ Ainda por vir
   - Dotenv
 - Banco de Dados
     - MongoDB (Para Armazenar Dados dos Usuarios)
-    - Sqlite3 (Para Armazenar dados extras dos jogos para serem acessados rapidos)
-
 # Termos de condições
 Ao usar ou modificar beccatk você aceitara os seguites <a href="https://joaovtk.github.io/becca-discord-bot/terms">Termos e Condições</a>
 
