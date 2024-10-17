@@ -5,13 +5,11 @@ Olá sou a becca uma bot de multitarefas e de diversão, tenho como proposito de
 # Cookies, meu bolsa familia para usuarios do discord
 Ainda por vir
 # Tecnologias Usadas 
-- java
-- Bibliotecas java
-  - JDA Slash Command
-  - JDA
-  - Dotenv
-- Banco de Dados
-    - MongoDB (Para Armazenar Dados dos Usuarios)
+Linguagem: Python
+Library: disnake(discord.py fork)
+Librays Complementarias: [wavelink(lavaplayer wrapper), python-dotenv]
+API Banco de Dados: MongoDB
+API libary: Flask
 # Termos de condições
 Ao usar ou modificar beccatk você aceitara os seguites <a href="https://joaovtk.github.io/becca-discord-bot/terms">Termos e Condições</a>
 
