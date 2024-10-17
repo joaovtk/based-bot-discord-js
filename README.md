@@ -8,8 +8,9 @@ Ainda por vir
 - Linguagem: Python
 - Library: disnake(discord.py fork)
 - Librays Complementarias: [wavelink(lavaplayer wrapper), python-dotenv]
+- API Linugagem: java
 - API Banco de Dados: MongoDB
-- API libary: Flask
+- API libary: Spring Boot
 # Termos de condições
 Ao usar ou modificar beccatk você aceitara os seguites <a href="https://joaovtk.github.io/becca-discord-bot/terms">Termos e Condições</a>
 
