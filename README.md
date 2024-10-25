@@ -5,9 +5,8 @@ Olá sou a becca uma bot de multitarefas e de diversão, tenho como proposito de
 # Cookies, meu bolsa familia para usuarios do discord
 Ainda por vir
 # Tecnologias Usadas 
-- Linguagem: Python
-- Library: disnake(discord.py fork)
-- Librays Complementarias: [wavelink(lavaplayer wrapper), python-dotenv]
+- Linguagem: java
+- Library: jda
 - API Linugagem: java
 - API Banco de Dados: MongoDB
 - API libary: Spring Boot
